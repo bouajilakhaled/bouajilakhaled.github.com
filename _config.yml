@@ -79,8 +79,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Rezak Souilah <br> Enseignant chercher à l'université Yahia Fares, Médéa"
-sidebar-avatar: /img/khaled.png  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Khaled Bouadjila <br> Enseignant chercher à l'université Yahia Fares, Médéa"
+sidebar-avatar: /img/khaled.jpeg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
