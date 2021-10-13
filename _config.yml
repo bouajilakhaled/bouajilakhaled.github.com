@@ -1,12 +1,12 @@
 # Site settings
 dir: rtl
-title: Souilah Rezak Blog
-SEOTitle: Souilah Blog
+title: Khaled Bouadjila Blog
+SEOTitle: Bouadjila Blog
 header-img: img/home-bg.jpg
-email: rezazsouilah@gmail.com
-description:  Web & Mobile Lover，Software Engineer，UX Designer | "
-keyword: huxpro, @huxpro, , Hux Blog, , Web, JavaScript"
-url: "https://rezaksouilah.github.io"              # your host, for absolute URL
+email: bouadjilakhaled@gmail.com
+description:  
+keyword: 
+url: "https://bouadjilakhaled.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,11 +14,11 @@ future: true
 
 # SNS settings
 RSS: false
-email: rezazsouilah@gmail.com
-github_username:    rezaksouilah
-twitter_username:   RezakSouilah
-facebook_username: rezak.souilah.5
-linkedin_username:  souilah-rezak-ens-kouba-b01336176
+email: bouadjilakhaled@gmail.com
+github_username:  bouadjilakhaled  
+twitter_username:   
+facebook_username: 
+linkedin_username:  khlid.bouaa
 
 
 
@@ -72,8 +72,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
